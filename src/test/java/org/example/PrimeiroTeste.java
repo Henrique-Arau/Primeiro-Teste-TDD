@@ -19,7 +19,7 @@ public class PrimeiroTeste {
 
     @Mock
     Calculadora calculadora;
-    
+
 
     @BeforeEach
     public void setUp() {
